@@ -1,0 +1,34 @@
+# Eclipse
+.settings
+.metadata
+.project
+.classpath
+chromedriver.log
+Servers
+bin
+target
+libraries
+IEDriverServer.exe
+
+# SpringSource Tool Suite
+.springBeans
+
+# Gradle
+.gradle
+
+# Netbeans
+build
+dist
+private
+
+# Jasper Report
+*.bak
+
+# Python compiled
+*.pyc
+
+# KomodoEdit
+*.komodoproject
+
+# dbtools
+dbtools/*.sql
